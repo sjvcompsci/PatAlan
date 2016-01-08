@@ -1,0 +1,38 @@
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\OtterSetup.exe.config
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\obj\Debug\OtterSetup.csprojResolveAssemblyReference.cache
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\libsndfile-1.dll
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\openal32.dll
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\csfml-audio-2.dll
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\csfml-graphics-2.dll
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\csfml-window-2.dll
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\OtterSetup.exe
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\OtterSetup.pdb
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\Otter.dll
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\sfmlnet-graphics-2.dll
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\sfmlnet-window-2.dll
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\sfmlnet-audio-2.dll
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\Otter.pdb
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\sfmlnet-graphics-2.xml
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\sfmlnet-window-2.xml
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\bin\Debug\sfmlnet-audio-2.xml
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\obj\Debug\OtterSetup.exe
+c:\users\sjv2019777\documents\visual studio 2015\Projects\OtterSetup\OtterSetup\obj\Debug\OtterSetup.pdb
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\OtterSetup.exe.config
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\obj\Debug\OtterSetup.exe
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\obj\Debug\OtterSetup.pdb
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\libsndfile-1.dll
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\openal32.dll
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\csfml-audio-2.dll
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\csfml-graphics-2.dll
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\csfml-window-2.dll
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\OtterSetup.exe
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\OtterSetup.pdb
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\Otter.dll
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\sfmlnet-window-2.dll
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\Otter.pdb
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\sfmlnet-graphics-2.xml
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\sfmlnet-window-2.xml
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\bin\Debug\sfmlnet-audio-2.xml
+C:\Users\sjv2019777\Dropbox\git\PatAlan\OtterSetup\OtterSetup\obj\Debug\OtterSetup.csprojResolveAssemblyReference.cache
